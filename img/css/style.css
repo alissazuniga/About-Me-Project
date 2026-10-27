@@ -7,6 +7,11 @@ body {
     padding-bottom: 90px;
 }
 
+h1,h2,h3, h4, h5, h6 {
+    font-size: 40px;
+    text-align: center;
+}
+
 footer {
     position: fixed;
     bottom: 0;
@@ -21,4 +26,9 @@ footer {
 
 footer p {
     margin: 0;
+}
+
+#hobbies ul li:nth-child(even) {
+    background-color: #1c0ebc;
+    color: rgb(11, 247, 11);
 }
