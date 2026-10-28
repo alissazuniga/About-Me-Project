@@ -32,3 +32,14 @@ footer p {
     background-color: #1c0ebc;
     color: rgb(11, 247, 11);
 }
+
+
+ #gallery {
+    border: 2px solid #b30808;
+ }
+
+ #gallery img {
+   max-width: 100%;
+
+#gallery figure
+    text-align: center;
